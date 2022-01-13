@@ -6,6 +6,7 @@
 
     <groupId>com.luozhipeng</groupId>
     <artifactId>quick-start</artifactId>
+    <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
